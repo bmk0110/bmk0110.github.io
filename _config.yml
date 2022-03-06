@@ -3,7 +3,7 @@ description: 준비중
 author: Minkyu Bae
 avatar: /logo.jpg
 email: bmk0110@naver.com
-
+subscribe : False
 plugins:
   - jekyll-seo-tag
   - jekyll-feed
